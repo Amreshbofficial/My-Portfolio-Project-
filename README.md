@@ -1,2 +1,4 @@
-# My-Awesome-Project
-This project is a web application designed to help users manage their tasks efficiently. It includes features like task creation, due date reminders, and progress tracking.
+# Project Name: My Portfolio Project
+
+## Description:
+This project is a web application that showcases my skills and projects as a Full-Stack Developer. It includes features like project showcases, skill descriptions, and contact information. This is not my personal profile but a project I built to demonstrate my abilities.
